@@ -20,7 +20,7 @@ _Happy hunting._
 * Book of Lorath mentions Wirt's leg, "a bell bearing his name", and Ahduma the Earthbreaker.
 * Datamined objects with "Quest_World_SecretCellar" attribute.
 * Herds of Aurochs, now extinct, used to roam the "Northern Steppes".
-* Well in Dry Steppes, Ked Barduafga (northeast of town portal) with the following inscription: _"The Oxen Gods stand as guardians to this sacred fountain. It is said that one who presents a worthy offering cleansed in these waters may receive their blessing."_
+* Well in Dry Steppes, Ked Bardu (northeast of town portal) with the following inscription: _"The Oxen Gods stand as guardians to this sacred fountain. It is said that one who presents a worthy offering cleansed in these waters may receive their blessing."_
     * _Within the fountain is a stone “The crumbling stone has a few discernable words: “...spill their blood to be deemed worthy…””_
 
 # **Rumors** <a name="rumors"></a>
