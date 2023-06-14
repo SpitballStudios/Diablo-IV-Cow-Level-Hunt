@@ -2,54 +2,28 @@
 The search continues!
 **Cowspiracy Knowledge Gathering**
 
+# Table of Contents
+1. [Confirmed Relations](#confirmedrelations)
+2. [Rumors](#rumors)
+3. [Long Form Reference Material](#longform)
+4. [Datamined Items](#datamine)
+5. [Screenshots of Cow Locations](#screenshots)
+<hr>
 _"Mooooo, MOO!, MuuuU"** **_🐄👑
 
-_last backup made 2023/6/14 at 7:00AM Pacific_
-
-**_Note to Readers: if you find evidence contributing to the discovery of the Diablo IV secret cow level please document your findings. If you are unsure of the validity of your evidence bring it to #cow-level-hunt channel in the Diablo IV Discord ([here](https://discord.com/channels/989899054815281243/1118193097520722032))._**
+**_Note to Readers: if you find evidence contributing to the discovery of the Diablo IV secret cow level please document your findings on the public Google Doc located [here](https://docs.google.com/document/d/1u3uTU6VFZ7-icAoiDeBD8NNdB9YjQT2nix-bzLOWpwQ/edit?usp=sharing). If you are unsure of the validity of your evidence bring it to #cow-level-hunt channel in the Diablo IV Discord ([here](https://discord.com/channels/989899054815281243/1118193097520722032))._**
 
 _Happy hunting._
 
-**Firm Leads**
-
-
-
-* Caldeum, Squirt the Peddler: this area is where Squirt the Peddler sold Wirt's Bell which was used in D3 to access Whimsyshire.
-* Scosglen: many cow sightings. Not-Scotland.
-    * Scosglen Helltide: Does this include any farms or bells?
-    * Any peculiar drops, hints, or cellars in the area? 
-    * ~~Repeatedly killing cows sometimes drops a chest. Continue efforts and report any special loot.~~ **Confirmed this isn’t a chest drop.  All areas of the map will “fade in” new items such as a chest, quest interactables, etc every 10 or so minutes. They will even spawn right on top of you.**
-* Southern Fractured Peaks: more farms? Grassy area.
-    * This lead is weak, but should be explored. If cows, farms, or bells in the area are found make note. If none, make note.
-* Datamined Items _“Quest_World_SecretCellar”_ (see long form reference below)
-    * Bloody Wooden Sh
-    * Musty Tome
-    * Intricate Metallic Fragment
-    * Strange Key 
-* Hawezar: stated as a land between places, Sanctuary and otherwise. Many farms and portal that brought Lilith to Sanctuary.
-    * Hawezar Helltides need thorough exploration. Does this area include any farms or bells? – (Hawezar Helltides in Fethis Wetlands have Fields and Cows in the Southern Part near the southern Mystery Chest and a bit further North.)
-    * Any peculiar drops, or hints?
-    * Cellars in the area?
-* Dry Steppes, Northern Steppes: used to have Auroch herds (this reference may be to the Badlands) now driven to extinction, led by Ahduma the Earthbreaker (cow queen).
-    * Northern Steppes area needs thorough exploration.
-    * Barbarian tribes need thorough investigation.
-    * Any peculiar drops, hints, or cellars in the area?
-* Part of Map that looks like a Cow, with 3 cows in it ([YT-Video](https://www.youtube.com/watch?v=aMcib9SAG6U)) 
-
-**Confirmed**
-
-
+# **Confirmed Relations** <a name="confirmedrelations"></a>
 
 * Book of Lorath mentions Wirt's leg, "a bell bearing his name", and Ahduma the Earthbreaker.
 * Datamined objects with "Quest_World_SecretCellar" attribute.
 * Herds of Aurochs, now extinct, used to roam the "Northern Steppes".
 * Well in Dry Steppes, Ked Barduafga (northeast of town portal) with the following inscription: _"The Oxen Gods stand as guardians to this sacred fountain. It is said that one who presents a worthy offering cleansed in these waters may receive their blessing."_
     * _Within the fountain is a stone “The crumbling stone has a few discernable words: “...spill their blood to be deemed worthy…””_
-* ~~Repeatedly killing cows in Scosglen (near Under The Fat Goose Inn and otherwise) sometimes drops a chest. Also reported leading monsters to kill the cows will have them drop a chest, which spawns fallen when opened.~~
 
-**Rumor**
-
-
+# **Rumors** <a name="rumors"></a>
 
 * Book of Lorath (see long form reference below) "... but perhaps there is such pasture in the Burning Hells." Possible reference to accessing cow level from Helltide or acquiring items from those events in certain areas.
 * The Northern Steppes Auroch herds rumored hunted to extinction by barbarians. Possibly barbarian related item to be found (Dry Steppes Crane Tribe, Dry Steppes Oxen Tribe, Fractured Peaks Bear Tribe).
@@ -72,23 +46,13 @@ _Happy hunting._
     * Could be related to the “worthy offering” that needs to be cleansed the Oxen statue is hinting at?
     * Tried dropping it on the floor inside the fountain and nothing happened.
 
-**Fake Moos**
-
-
-
-* Blizzard Developers have claimed "there is no cow level". Do not believe such heresy. The search must continue until the secret lair is found and the bovine threat is eliminated. Stay strong brothers.
-* The Diablo FR Team Tweet - [https://twitter.com/Diablo_FR/status/1664201808829460480](https://twitter.com/Diablo_FR/status/1664201808829460480) - is infact a re-used Diablo 2 Resurrected model - Confirmed - [https://www.artstation.com/artwork/9mA5dy](https://www.artstation.com/artwork/9mA5dy) - scroll down
-
-**Long Form Reference Material**
-
+# **Long Form Reference Material** <a name="longform"></a>
 
 ---
 
 **The Book of Lorath, page ## of ##**
 
 **Wirt's Leg**
-
-**[Original Image](https://cdn.discordapp.com/attachments/468130421562015744/1117597623105372290/IMG_0832.jpg)**
 
 _"This Relic does not refer to the poor lad's original Leg, the bones of which were found with Bishibosh, the great Shaman of the Fallen. Instead, I write of the wooden peg attached to the stump of his leg by Old Tristram's healer, Pepin. According to one piece of improbable lore, **Wirt died when a rampaging herd of possessed cattle trampled him into the mud**, and this event imbued his wooden peg with very specific magical properties. In a manner similar to **the bell bearing his name**, **Wirt's Leg is said to grant access to a demonic plane** where vengeance can be visited upon a herd of cursed demonic cattle, including their infernal king. I find these claims only slightly more credible than those for the previous Wirt relic. It is well known that demonic forces can easily drive horses, cattle, and camels to stampede. There is also the **mythic figure of Ahduma the Earthbreaker[1], a terrifying aurochs ([Image of an Auroch)](https://criticalrole.fandom.com/wiki/Aurochs?file=Aurochs.png)** named in ancient tales. Because of this, it is possible that Wirt died in the way the stories claim. I am unconvinced the lad's leg can open a portal to a cattle realm, **but perhaps there is such pasture in the Burning Hells."**_
 
@@ -101,7 +65,7 @@ _"This Relic does not refer to the poor lad's original Leg, the bones of which w
 
 ---
 
-**_Datamined Items:_**
+# **_Datamined Items:_** <a name="datamine"></a>
 
 _[Bloody Wooden Shard] (likely Wirt's Leg remnant)_
 
@@ -111,7 +75,7 @@ _[Musty Tome] (likely tome of town portal)_
 
 _"The tattered leather binding of an old tome. The deep blue dye has faded with age, and all of the pages have been torn out. Though its purpose is lost to time, this was once an object of great significance."_
 
-_[Intricate Metallic Fragment] (Horadric cube? Need context) - Confirmed photo of Nephalem Obelisk: [https://cdn.discordapp.com/attachments/1118135812870111285/1118327131030691960/2DInventory_Materials_1769453156.png](https://cdn.discordapp.com/attachments/1118135812870111285/1118327131030691960/2DInventory_Materials_1769453156.png) | Matches texture from scattered prism. Likely world boss drop?_
+_[Intricate Metallic Fragment] (Horadric cube? Need context) - Matches texture from scattered prism. Likely world boss drop?_
 
 _"A metallic fragment of unknown origin, still humming with magical energies. It appears to be part of some ancient device. Though its purpose is lost to time, this was once an object of great significance."_
 
@@ -122,7 +86,7 @@ _"A large metal key. Though it appears ordinary, you feel that it has some kind 
 
 ---
 
-Screenshots of Cow Locations:
+# Screenshots of Cow Locations: <a name="screenshots"></a>
 
 In General: If a spot on the map looks like a field, the chances are very high there are cows there.
 
@@ -156,14 +120,4 @@ _"**Squirt the Peddler** is an NPC in Act II of Diablo III. Most notably, **she 
 
 _[https://diablo.fandom.com/wiki/Squirt_the_Peddler](https://diablo.fandom.com/wiki/Squirt_the_Peddler)_
 
-
-
-**Direction interactable oxen is facing **
-
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
 
