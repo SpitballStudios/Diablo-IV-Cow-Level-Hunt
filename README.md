@@ -3,4 +3,4 @@
 
 Click on The-Hunt.md to view the file.
 
-It is important to note that ALL INFORMATION ON THIS GITHUB SHOULD ONLY BE CONFIRMED INFORMATION. Use the Google Doc for speculative guesses as to where the Cow level is/what may be involved.
+It is important to note that INFORMATION ON THIS GITHUB SHOULD MAINLY BE FOCUSED ON **CONFIRMED INFORMATION**. Use the Google Doc for speculative guesses as to where the Cow level is/what may be involved.
